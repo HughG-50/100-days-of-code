@@ -59,8 +59,19 @@ I setup my Codepen and completed a challenge that focused on SCSS skills, releva
 
 ### Day 7: April 10th, 2020
 
-**Today's Progress**: Learnt more about JSON and automating workflow
+**Today's Progress**: Continued working on first Rails App and automation
 
 **Thoughts**: To compliment my newly learnt knowledge about REST APIs, I spent time learning more about the JSON format and how its used in APIs. Also began playing around with automation, inspired by one of the programming youtubers that is quickly becoming my favourite, Kalle Hallden. The shell script automatically creates a new git repo in your desired directory as well as creating a new repo on Github and linking the remote.
 
-**Link(s) to work**: [Project Initialization Automation](https://github.com/HughG-50/ProjectInitializationAutomation)
+**Link(s) to work**: [First Rails App - Blog](https://github.com/HughG-50/blog)
+
+
+### Day 8: April 10th, 2020
+
+**Today's Progress**: Continued working on first Rails App
+
+**Thoughts**: Continued working on my first Rails blog app. Running into lots of roadblocks with routing errors and general unfamiliarity/newness to Rails. Very frustrating, but I think switching over to a Rails project that interests me more it will help a lot - e.g. building a cryptocurrency portfolio app. All part of the process.
+
+**Link(s) to work**: [First Rails App - Blog](https://github.com/HughG-50/blog)
+
+Continued working on my first Rails blog app. Running into lots of roadblocks with routing errors and general unfamiliarity/newness to Rails. Very frustrating, but I think switching over to a Rails project that interests me more it will help a lot - e.g. building a cryptocurrency portfolio app. All part of the process.
