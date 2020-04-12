@@ -66,7 +66,7 @@ I setup my Codepen and completed a challenge that focused on SCSS skills, releva
 **Link(s) to work**: [First Rails App - Blog](https://github.com/HughG-50/blog)
 
 
-### Day 8: April 10th, 2020
+### Day 8: April 11th, 2020
 
 **Today's Progress**: Continued working on first Rails App
 
@@ -74,4 +74,11 @@ I setup my Codepen and completed a challenge that focused on SCSS skills, releva
 
 **Link(s) to work**: [First Rails App - Blog](https://github.com/HughG-50/blog)
 
-Continued working on my first Rails blog app. Running into lots of roadblocks with routing errors and general unfamiliarity/newness to Rails. Very frustrating, but I think switching over to a Rails project that interests me more it will help a lot - e.g. building a cryptocurrency portfolio app. All part of the process.
+### Day 9: April 12th, 2020
+
+**Today's Progress**: Started building Cryptocurrency Portfolio Tracker in Rails
+
+**Thoughts**: Decided that best way to learn some Rails would be to try and follow a tutorial on building something that interests me. Will modify and expand upon it at a later date. Having fun putting this together so far - following along here https://zayne.io/articles/build-a-cryptocurrency-portfolio-calculator
+
+**Link(s) to work**: [Cryptocurrency Portfolio Tracker - Rails App](https://github.com/HughG-50/cryptocurrency-portfolio)
+
