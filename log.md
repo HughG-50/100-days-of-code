@@ -82,3 +82,11 @@ I setup my Codepen and completed a challenge that focused on SCSS skills, releva
 
 **Link(s) to work**: [Cryptocurrency Portfolio Tracker - Rails App](https://github.com/HughG-50/cryptocurrency-portfolio)
 
+### Day 10: April 13th, 2020
+
+**Today's Progress**: Continued building out the crypto portfolio tracker. 
+
+**Thoughts**: Spent most of today's coding playing around with the [Coinmarketcap API](https://coinmarketcap.com/api/documentation/v1/), feeling a lot more comfortable now with RESTful APIs and authentication, will be cool once I finally get this working nicely in an app.
+
+**Link(s) to work**: [Cryptocurrency Portfolio Tracker - Rails App](https://github.com/HughG-50/cryptocurrency-portfolio)
+[Working with Coinmarketcap Sandbox API](https://github.com/HughG-50/learning_apis/blob/master/coinmarketcap_sandbox.rb)
