@@ -90,3 +90,11 @@ I setup my Codepen and completed a challenge that focused on SCSS skills, releva
 
 **Link(s) to work**: [Cryptocurrency Portfolio Tracker - Rails App](https://github.com/HughG-50/cryptocurrency-portfolio)
 [Working with Coinmarketcap Sandbox API](https://github.com/HughG-50/learning_apis/blob/master/coinmarketcap_sandbox.rb)
+
+### Day 11: April 14th, 2020
+
+**Today's Progress**: Learning CRUD and routing
+
+**Thoughts**: Spent more time learning practising routing and feeling more confident with it now. Implemented basic CRUD controller functionality and routing, as well as redirects.
+
+**Link(s) to work**: [Book CRUD App](https://github.com/HughG-50/books_crud)
