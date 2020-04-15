@@ -98,3 +98,11 @@ I setup my Codepen and completed a challenge that focused on SCSS skills, releva
 **Thoughts**: Spent more time learning practising routing and feeling more confident with it now. Implemented basic CRUD controller functionality and routing, as well as redirects.
 
 **Link(s) to work**: [Book CRUD App](https://github.com/HughG-50/books_crud)
+
+### Day 12: April 15th, 2020
+
+**Today's Progress**: Learning Views in Rails
+
+**Thoughts**: More progress today on Views, Sessions and tricks/structures to use within Views - partials and layouts. Now just Models and databases to go.
+
+**Link(s) to work**: [Celebrities Basic Rails App](https://github.com/HughG-50/celebrities_rails)
