@@ -106,3 +106,12 @@ I setup my Codepen and completed a challenge that focused on SCSS skills, releva
 **Thoughts**: More progress today on Views, Sessions and tricks/structures to use within Views - partials and layouts. Now just Models and databases to go.
 
 **Link(s) to work**: [Celebrities Basic Rails App](https://github.com/HughG-50/celebrities_rails)
+
+### Day 13: April 16th, 2020
+
+**Today's Progress**: Models and databases
+
+**Thoughts**: Rounded out work on MVC models today by spending time on Models and databases. Working with postgres, enjoying learning some Rails magic and how it all fits together is starting to come to me. 
+
+**Link(s) to work**: [Toy Store Database/Rails App](https://github.com/HughG-50/toy_store)
+
