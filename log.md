@@ -115,3 +115,11 @@ I setup my Codepen and completed a challenge that focused on SCSS skills, releva
 
 **Link(s) to work**: [Toy Store Database/Rails App](https://github.com/HughG-50/toy_store)
 
+### Day 14: April 17th, 2020
+
+**Today's Progress**: Putting MVC together
+
+**Thoughts**: Finished off putting together my first Rails app with complete MVC from scratch. It doesn't do much but I'm starting to feel like I'm getting a good grasp on the concepts, Rails is nice.
+
+**Link(s) to work**: [Toy Store Database/Rails App](https://github.com/HughG-50/toy_store)
+
