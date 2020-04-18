@@ -123,3 +123,11 @@ I setup my Codepen and completed a challenge that focused on SCSS skills, releva
 
 **Link(s) to work**: [Toy Store Database/Rails App](https://github.com/HughG-50/toy_store)
 
+### Day 15: April 18th, 2020
+
+**Today's Progress**: Fixed bugs in Project Automation Initialization and learned more about env variables
+
+**Thoughts**: Fixed bugs in my [shell scripting automation project](https://github.com/KalleHallden/ProjectInitializationAutomation) that I forked from Kalle Hallden. Has definitely given me a greater understanding of env variables and shell scripting. Also spent time learning about different ways I could store my API keys for my crypto portfolio tracker app.
+
+**Link(s) to work**: [Cryptocurrency Portfolio Tracker - Rails App](https://github.com/HughG-50/cryptocurrency-portfolio)
+
