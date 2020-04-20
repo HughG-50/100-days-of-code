@@ -143,7 +143,7 @@ I setup my Codepen and completed a challenge that focused on SCSS skills, releva
 
 **Today's Progress**: Completed CRUD app with forms for Creating, Updating and Deleting
 
-**Thoughts**: 
+**Thoughts**: A good day, consolidated much of my Rails knowledge and starting to feel more confident with its general usage withn the MVC framework. Implemented forms such that CREATE, POST and PUT requests could be made within the app/browser.
 
 **Link(s) to work**: [Food List App](https://github.com/HughG-50/foods-rails)
 
