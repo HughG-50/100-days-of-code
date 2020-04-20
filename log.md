@@ -138,3 +138,12 @@ I setup my Codepen and completed a challenge that focused on SCSS skills, releva
 **Thoughts**: Rewarding day, managed to get the Coinmarketcap API working correctly with my API key stored safely in an environment variable, setup in a local_env.yml file in my Rails app - a blocker that I overcame. Now that the backend is set, my work now moves to building out all of the front-end. Using React components, but still very new to React so will take it step-by-step.
 
 **Link(s) to work**: [Cryptocurrency Portfolio Tracker - Rails App](https://github.com/HughG-50/cryptocurrency-portfolio)
+
+### Day 17: April 20th, 2020
+
+**Today's Progress**: Completed CRUD app with forms for Creating, Updating and Deleting
+
+**Thoughts**: 
+
+**Link(s) to work**: [Food List App](https://github.com/HughG-50/foods-rails)
+
