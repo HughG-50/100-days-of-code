@@ -147,3 +147,12 @@ I setup my Codepen and completed a challenge that focused on SCSS skills, releva
 
 **Link(s) to work**: [Food List App](https://github.com/HughG-50/foods-rails)
 
+### Day 18: April 21st, 2020
+
+**Today's Progress**: Learnt relational databases
+
+**Thoughts**: Learnt about database relationships and linked together related Models in one-to-one and one-to-many relations. 
+
+**Link(s) to work**: [Toy Store Database/Rails App](https://github.com/HughG-50/toy_store)
+
+
