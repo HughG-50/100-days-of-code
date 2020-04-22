@@ -155,4 +155,13 @@ I setup my Codepen and completed a challenge that focused on SCSS skills, releva
 
 **Link(s) to work**: [Toy Store Database/Rails App](https://github.com/HughG-50/toy_store)
 
+### Day 19: April 22nd, 2020
+
+**Today's Progress**: Learning Discrete Math
+
+**Thoughts**: Didn't spend too much time coding today because I'm brushing up on discrete maths for the next few weeks. Did implement simple algorithms for converting decimal to binary and hex to ascii though.
+
+**Link(s) to work**: [Decimal to Binary](https://github.com/HughG-50/ca-term2-challenges/blob/master/decimal_to_binary.rb)
+[Hex to Ascii](https://github.com/HughG-50/ca-term2-challenges/blob/master/hex_string_to_ascii.rb)
+
 
