@@ -164,4 +164,12 @@ I setup my Codepen and completed a challenge that focused on SCSS skills, releva
 **Link(s) to work**: [Decimal to Binary](https://github.com/HughG-50/ca-term2-challenges/blob/master/decimal_to_binary.rb)
 [Hex to Ascii](https://github.com/HughG-50/ca-term2-challenges/blob/master/hex_string_to_ascii.rb)
 
+### Day 20: April 23rd, 2020
+
+**Today's Progress**: Further progress with database relationships
+
+**Thoughts**: Implementation of database normalization. Join tables and tables with polymorphic relationships were built. Cool to see how it is visualised and is important to organise our database structures so we can maintain favourable time complexity and useful structure.
+
+**Link(s) to work**: [Toy Store Database/Rails App](https://github.com/HughG-50/toy_store)
+
 
