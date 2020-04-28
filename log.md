@@ -173,3 +173,26 @@ I setup my Codepen and completed a challenge that focused on SCSS skills, releva
 **Link(s) to work**: [Toy Store Database/Rails App](https://github.com/HughG-50/toy_store)
 
 
+### Day 21-22: April 24-25th, 2020
+
+**Today's Progress**: Forms in Rails
+
+**Thoughts**: Began implemented basic e-commerce store example. Learnt how to implement forms the Rails Way. Playing around/researching the Bitmex market maker bot code - would like to implement my own strategy at some point.
+
+**Link(s) to work**: [Snake Store App](https://github.com/HughG-50/rails-snakebay)
+
+### Day 23-24: April 26-27th, 2020
+
+**Today's Progress**: More databases and image uploading on Amazon S3
+
+**Thoughts**: Dived further into learning about databases and how they operate, also learnt how to implement Active Storage in Rails, storing images in the cloud with Amazon S3.
+
+**Link(s) to work**: [Snake Store App](https://github.com/HughG-50/rails-snakebay)
+
+### Day 25: April 28th, 2020
+
+**Today's Progress**: Authentication in Ruby
+
+**Thoughts**: The basics of user authentication/authorisation was covered. Mostly utilising the devise gem, makes it a breeze to setup a username and login system. Rails Magic.
+
+**Link(s) to work**: [Snake Store App](https://github.com/HughG-50/rails-snakebay)
