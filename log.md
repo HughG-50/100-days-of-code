@@ -196,3 +196,43 @@ I setup my Codepen and completed a challenge that focused on SCSS skills, releva
 **Thoughts**: The basics of user authentication/authorisation was covered. Mostly utilising the devise gem, makes it a breeze to setup a username and login system. Rails Magic.
 
 **Link(s) to work**: [Snake Store App](https://github.com/HughG-50/rails-snakebay)
+
+### Day 26: April 29th, 2020
+
+**Today's Progress**: Solving Discrete Math Problems
+
+**Thoughts**: Mostly focued on discrete math today. Implemented binary calculations converter and XOR calculator. 
+
+**Link(s) to work**: [Discrete Math Coding problems](https://github.com/HughG-50/ca-term2-challenges)
+
+### Day 27: April 30th, 2020
+
+**Today's Progress**: Integrating payments with Stripe API
+
+**Thoughts**: Very fun day learning how to integrate Credit Card payments into a Rails app with the Stripe API. The Stripe documentation is the gold standard for quality, making use of the API smooth and easy. Stripe will be fun to dive deeper into and play around with.
+
+**Link(s) to work**: [Snake Store App](https://github.com/HughG-50/rails-snakebay)
+
+### Day 28: May 1st, 2020
+
+**Today's Progress**: Consolidating database knowledge
+
+**Thoughts**: Started a simple project to revise and go over all of the Rails topics learnt in the past few weeks, building up a simple book exchange website from scratch. Spent more time focused on consolidating database relationship knowledge and how to think about their design. I am realising that databases are such a broad topic on their own and is going to take a lot of effort to get comfortable with, its another topic that goes very deep and you also need to figure out to what extent you are ok with what you know for what is needed to make a web application.
+
+**Link(s) to work**: [Book Exchange](https://github.com/HughG-50/bookexchange-rails)
+
+### Day 29: May 2nd, 2020
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+### Day 30: May 3rd, 2020
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
