@@ -223,16 +223,16 @@ I setup my Codepen and completed a challenge that focused on SCSS skills, releva
 
 ### Day 29: May 2nd, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Revising and getting better at db relations, setting up models
 
-**Thoughts**: 
+**Thoughts**: Spent majority of the time mapping out the entities for my book exchange further and their relations. Generated all of the necessary Models. 
 
-**Link(s) to work**: 
+**Link(s) to work**: [Book Exchange](https://github.com/HughG-50/bookexchange-rails)
 
 ### Day 30: May 3rd, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Building out MVC for practice Rails application
 
-**Thoughts**: 
+**Thoughts**: Consolidating a lot of the information that has been thrown at me in the last couple of weeks regarding Rails and web application frameworks. Getting stuck in particular when it comes manipulating/using data from within related tables - adds that extra layer of complexity that makes it less natural for me. Persistence and practice I'll feel more comfortable with it.
 
-**Link(s) to work**: 
+**Link(s) to work**: [Book Exchange](https://github.com/HughG-50/bookexchange-rails)
