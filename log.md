@@ -284,3 +284,11 @@ I setup my Codepen and completed a challenge that focused on SCSS skills, releva
 **Thoughts**: A bit of a different flavour to a weekend project. Built a Network Attached Storage (NAS) device using 2, 2TB hard drives and a raspberry pi 4. It runs Raid 1, providing a safe and secure backup drive for all of my files. Also great way to spend some time in Linux - using SSH and Vim.
 
 **Link(s) to work**: [Raspberry Pi NAS](https://twitter.com/hughgreethead/status/1259337954834526208?s=20)
+
+### Day 37: May 10th, 2020
+
+**Today's Progress**: Two way marketplace research
+
+**Thoughts**: Researching for my Coder Academy marketplace project that is to be built in Rails. Planning to build a slightly simplified version of https://localbitcoins.com, the biggest issue preventing complete replication within the timeframe would be safely imlementing the escrow functionality of the website (they host their own Bitcoin wallets for payment escrow). Otherwise all of the web application functionality seems fairly replicable.
+
+**Link(s) to work**: [Bitcoin Marketplace](https://github.com/HughG-50/rails-marketplace-project)
