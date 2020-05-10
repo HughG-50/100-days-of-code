@@ -236,3 +236,51 @@ I setup my Codepen and completed a challenge that focused on SCSS skills, releva
 **Thoughts**: Consolidating a lot of the information that has been thrown at me in the last couple of weeks regarding Rails and web application frameworks. Getting stuck in particular when it comes manipulating/using data from within related tables - adds that extra layer of complexity that makes it less natural for me. Persistence and practice I'll feel more comfortable with it.
 
 **Link(s) to work**: [Book Exchange](https://github.com/HughG-50/bookexchange-rails)
+
+### Day 31: May 4th, 2020
+
+**Today's Progress**: Full Rails Review
+
+**Thoughts**: Fulls Rails Review, building a marketplace application from scratch that included image uploading, full CRUD and payments.
+
+**Link(s) to work**: [Musician Marketplace](https://github.com/HughG-50/musician-marketplace)
+
+### Day 32: May 5th, 2020
+
+**Today's Progress**: Git Collaboration practice
+
+**Thoughts**: Learnt more details about collaborating with git and git workflows that are commonly used in industry like Gitflow. Solving merge conflicts and how to manage branching and pull requests.
+
+**Link(s) to work**: [Git Collaboration](https://github.com/HughG-50/git-collaboration-practice)
+
+### Day 33: May 6th, 2020
+
+**Today's Progress**: Start of Rails Hackathon
+
+**Thoughts**: Less hands on coding and more design focus. GitHot is a website that tracks the top 10 most popular repositories created in the past week on Github. Design session focus on user stories, entity planning, Github API research and ER Diagram creation.
+
+**Link(s) to work**: [GitHot Web App Repo](https://github.com/AaronL1011/RailsHackathon)
+
+### Day 34: May 7th, 2020
+
+**Today's Progress**: Rails Hackathon Continued
+
+**Thoughts**: Created the entire Rails framework today. I focused on the Github Search API initially, creating the correct query string for what we wanted to do as well as correct parsing. Focus was on generating the right models and controllers needed, with basic elements within the Views.
+
+**Link(s) to work**: [GitHot Web App Repo](https://github.com/AaronL1011/RailsHackathon)
+
+### Day 35: May 8th, 2020
+
+**Today's Progress**: Rails Hackathon Conclusion
+
+**Thoughts**: Very happy with the final result. A well functioning website with consistent styling throughout, achieved mostly through the use of Bootstrap, allowing for user friendly and appealing interfaces to be generated quickly within the time restraints of the hackathon. The afternoon was spent on deployment to Heroku - some learning curve still to be had there, particularly if the application requires some more complex processes.
+
+**Link(s) to work**: [GitHot Web App Repo](https://github.com/AaronL1011/RailsHackathon)
+
+### Day 36: May 9th, 2020
+
+**Today's Progress**: Raspberry pi NAS built
+
+**Thoughts**: A bit of a different flavour to a weekend project. Built a Network Attached Storage (NAS) device using 2, 2TB hard drives and a raspberry pi 4. It runs Raid 1, providing a safe and secure backup drive for all of my files. Also great way to spend some time in Linux - using SSH and Vim.
+
+**Link(s) to work**: [Raspberry Pi NAS](https://twitter.com/hughgreethead/status/1259337954834526208?s=20)
